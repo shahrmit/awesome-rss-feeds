@@ -246,7 +246,8 @@ Source | Primary Feed Url | All Feeds
 خبرگزاری مهر - اخبار ایران و جهان - Mehr News Agency | https://www.mehrnews.com/rss | https://www.mehrnews.com/rss 
 خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان - Khabaronline | https://www.khabaronline.ir/rss | https://www.khabaronline.ir/rss-help 
 اخبار ایران و جهان | https://www.tasnimnews.com/fa/rss/feed/0/8/0/%D9%85%D9%87%D9%85%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D8%B3%D9%86%DB%8C%D9%85 | https://www.tasnimnews.com/fa/rss 
-عصر ايران | https://www.asriran.com/fa/rss/allnews | https://www.asriran.com/fa/rss 
+عصر ايران | https://www.asriran.com/fa/rss/allnews | https://www.asriran.com/fa/rss
+شهر بورس | https://shahrebours.com/feed/ | https://shahrebours.com/
 ### 🇮🇹 Italy
 Source | Primary Feed Url | All Feeds 
 -------|------------------|---------- 
